@@ -1,7 +1,7 @@
 # PygLatinTranslator
 
 ## Pig Latin is a language game, where you move the first letter of the word to the end and add “ay.”
-So for example: “Python” becomes “ythonpay.”
+### So for example: “Python” becomes “ythonpay.”
 
 To write a Pig Latin translator in Python, here are the steps we’ll need to take:
 
